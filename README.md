@@ -22,7 +22,7 @@ Host `Azure Web Service`
 GraphiaX Frontend Docker image: 
 https://hub.docker.com/repository/docker/dilmi0000/graphiax-frontend/general
 
-We will focus more on the backend.
+Note: We will focus more on the backend.
 
 # Backend
 
