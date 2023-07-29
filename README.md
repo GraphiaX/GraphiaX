@@ -27,7 +27,8 @@ We will focus more on the backend.
 # Backend
 
 Requirments
-```json
+
+```
 asgiref==3.7.2
 certifi==2023.7.22
 charset-normalizer==3.2.0
