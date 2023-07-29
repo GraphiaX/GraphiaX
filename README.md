@@ -40,7 +40,7 @@ const url = `${BASE_URL}/react_api/info/`;
 
 Repo Link: https://github.com/MohyiddineDilmi/graphiax-server
 
-Requirments
+## Requirements
 
 ```
 asgiref==3.7.2
@@ -56,6 +56,8 @@ sqlparse==0.4.4
 tzdata==2023.3
 urllib3==2.0.4
 ```
+
+We are using one endpoint
 
 <img src="https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/4d4e3b46-d3b4-425d-9d5d-52e2ac6f3ee3" width="70%"/>
 
