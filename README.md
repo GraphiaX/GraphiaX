@@ -45,7 +45,9 @@ urllib3==2.0.4
 
 <img src="https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/4d4e3b46-d3b4-425d-9d5d-52e2ac6f3ee3" width="70%"/>
 
-The graph structure is nodes and edges, the function `get_network_structure()` is responsible for switching the format.
+### get_network_structure()
+
+The ```get_network_structure()``` function is responsible for converting the graph structure to JSON format, which contains both nodes and edges.
 
 <img src="https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/9c3438be-5df2-44aa-8cb1-578f8ec37ecb" width="70%"/>
 
