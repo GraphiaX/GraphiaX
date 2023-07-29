@@ -64,6 +64,12 @@ urllib3==2.0.4
 
 <img src="https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/4d4e3b46-d3b4-425d-9d5d-52e2ac6f3ee3" width="70%"/>
 
+## Important
+```python
+// 1 - Go to utils.py file
+// 2 - Replace access_token with your github token
+access_token = 'github_pat_11AI****'
+```
 
 ## Some functions explanation
 ### get_network_structure()
