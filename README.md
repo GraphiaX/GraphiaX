@@ -66,9 +66,9 @@ urllib3==2.0.4
 
 ## Important
 ```python
-// 1 - Go to utils.py file
-// 2 - Replace access_token with your github token
-access_token = 'github_pat_11AI****'
+# 1 - Go to utils.py file
+# 2 - Replace access_token with your github token
+access_token = 'your_github_token_here'
 ```
 
 ## Some functions explanation
