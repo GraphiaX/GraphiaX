@@ -25,6 +25,7 @@ GraphiaX Frontend Docker image:
 https://hub.docker.com/repository/docker/dilmi0000/graphiax-frontend/general
 
 ```JS
+const BASE_URL = 'Your Server URL';
 const url = `${BASE_URL}/react_api/info/`;
 ```
 
