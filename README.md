@@ -88,6 +88,6 @@ The ```get_network_structure()``` function is responsible for converting the gra
 <img src="https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/9c3438be-5df2-44aa-8cb1-578f8ec37ecb" width="70%"/>
 
 #
-<img src="https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/cbbc29b6-a0a4-48a0-8454-ef657ef7f203" width="100"/>
+<img src="https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/cbbc29b6-a0a4-48a0-8454-ef657ef7f203" href="./README.md" width="100"/>
 
 
