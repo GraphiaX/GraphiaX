@@ -24,6 +24,7 @@ Repo Link: https://github.com/MohyiddineDilmi/graphiax-frontend
 GraphiaX Frontend Docker image: 
 https://hub.docker.com/repository/docker/dilmi0000/graphiax-frontend/general
 
+## Important
 ```JS
 // 1 - Go to Home.jsx file
 // 2 - Replace BASE_URL with your server URL
