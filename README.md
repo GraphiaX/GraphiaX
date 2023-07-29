@@ -24,6 +24,10 @@ Repo Link: https://github.com/MohyiddineDilmi/graphiax-frontend
 GraphiaX Frontend Docker image: 
 https://hub.docker.com/repository/docker/dilmi0000/graphiax-frontend/general
 
+```JS
+const url = 'https://graphiax-server.azurewebsites.net/react_api/info/';
+```
+
 >💡 We will focus more on the backend.
 
 # Backend
