@@ -6,5 +6,9 @@ The following is a set of guidelines for contributing to GraphiaX and its packag
 
 ## Table Of contents
 
+
 * Code of Conduct
+* What should I know before I get started?
+* How Can I Contribute?
+* I just have a question
 
