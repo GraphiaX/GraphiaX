@@ -26,7 +26,7 @@ https://hub.docker.com/repository/docker/dilmi0000/graphiax-frontend/general
 
 ```JS
 // 1 - Go to Home.jsx file
-// 2 - You have to replace BASE_URL with your server URL
+// 2 - Replace BASE_URL with your server URL
 const BASE_URL = 'Your Server URL';
 // In our case BASE URL == https://graphiax-server.azurewebsites.net
 BASE_URL = 'https://graphiax-server.azurewebsites.net'
