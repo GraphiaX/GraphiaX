@@ -19,10 +19,10 @@ Host `Azure Web Service`
 
 # Frontend
 
+Repo Link: https://github.com/MohyiddineDilmi/graphiax-frontend
+
 GraphiaX Frontend Docker image: 
 https://hub.docker.com/repository/docker/dilmi0000/graphiax-frontend/general
-
-Repo Link: https://github.com/MohyiddineDilmi/graphiax-frontend
 
 >💡 We will focus more on the backend.
 
