@@ -57,7 +57,9 @@ tzdata==2023.3
 urllib3==2.0.4
 ```
 
-We are using one endpoint
+## Server Architecture
+
+We are using one endpoint `(GET)  BASE_URL/react_api/info/`
 
 <img src="https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/4d4e3b46-d3b4-425d-9d5d-52e2ac6f3ee3" width="70%"/>
 
