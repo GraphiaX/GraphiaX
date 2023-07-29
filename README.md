@@ -6,9 +6,9 @@ GraphiaX is a groundbreaking tool designed to enhance code understanding and str
 
 Supported Language `React`
 
-# Architecture
-
 Live Demo: https://graphiax.azurewebsites.net/
+
+# Architecture
 
 Frontend `React JS`
 
