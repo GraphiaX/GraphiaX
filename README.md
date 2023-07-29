@@ -10,8 +10,8 @@ Supported Language `React`
 ![code2graph drawio](https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/5c93bea5-1073-4e50-ab01-50a90070f96a)
 
 
+![code2graph drawio](https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/11f5143a-5ce4-40a5-80bc-5cd7daf6f0d7)
 
-![code2graph drawio](https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/f90f104c-0b95-4ee5-8808-c804f3d921e9)
 
 
 
