@@ -71,6 +71,15 @@ urllib3==2.0.4
 access_token = 'your_github_token_here'
 ```
 
+```python
+# 1 - Go to settings.py file
+# 2 - Add your frontend url,
+CORS_ALLOWED_ORIGINS = [
+    'https://graphiax.azurewebsites.net', # In our case
+    'http://localhost:3000'  # If you are testing in a local host
+]
+```
+
 ## Some functions explanation
 ### get_network_structure()
 
