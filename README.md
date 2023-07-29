@@ -4,7 +4,8 @@
 
 GraphiaX is a groundbreaking tool designed to enhance code understanding and streamline developer onboarding! By transforming code into graphs, developers can now visualize and comprehend complex structures with ease. You can simply enter the repository URL link, and the code is transformed into an intuitive graph representation.
 
-Supported Language `React`
+## Supported Language 
+`React`
 
 Live Demo: https://graphiax.azurewebsites.net/
 
