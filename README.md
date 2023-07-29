@@ -14,7 +14,7 @@ Frontend `React JS`,
 Backend `Django`,
 Host `Azure Web Service`
 
-<img src="https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/ac9adc04-4af7-4123-aa97-f4f9a8674651" width="50%"/>
+<img src="https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/9329de75-42f3-4915-b003-5b863c56b112" width="50%"/>
 
 # Backend
 
