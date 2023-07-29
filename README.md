@@ -10,10 +10,8 @@ Live Demo: https://graphiax.azurewebsites.net/
 
 # Architecture
 
-Frontend `React JS`
-
-Backend `Django`
-
+Frontend `React JS`,
+Backend `Django`,
 Host `Azure Web Service`
 
 ![code2graph drawio](https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/5c93bea5-1073-4e50-ab01-50a90070f96a)
