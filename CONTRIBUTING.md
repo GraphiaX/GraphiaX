@@ -23,7 +23,9 @@ The following is a set of guidelines for contributing to GraphiaX and its packag
 This section guides you through submitting a bug report for GraphiaX.
 
 [For issues related to Frontend](https://github.com/GraphiaX/GraphiaX-Frontend/issues)
+
 [For issues related to the backend](https://github.com/GraphiaX/GraphiaX-Server/issues)
+
 [For any general issues](https://github.com/GraphiaX/GraphiaX/issues)
 
 ### Suggesting Enhancements
