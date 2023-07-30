@@ -34,7 +34,7 @@ This section guides you through submitting a bug report for GraphiaX.
 
 ## Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for GraphiaX, including completely new features and minor improvements to existing functionality. You can contact:
+This section guides you through submitting an enhancement suggestion for GraphiaX, including completely new features and minor improvements to existing functionality. You can contact via:
 
 Discord: https://discord.gg/uJ9A5QX5
 
