@@ -8,13 +8,24 @@ The following is a set of guidelines for contributing to GraphiaX and its packag
 ## Table Of contents
 
 
-* [Code of Conduct](#code_of_conduct)
 * What should I know before I get started?
-* How Can I Contribute?
+* [How Can I Contribute?](#how_can_i_contribute)
 * I just have a question
 
 
 
-<a name="code_of_conduct"/>
+<a name="how_can_i_contribute"/>
 
-## Code of Conduct
+# How Can I Contribute?
+
+### Reporting Bugs
+
+This section guides you through submitting a bug report for GraphiaX.
+
+[For issues related to Frontend](https://github.com/GraphiaX/GraphiaX-Frontend/issues)
+[For issues related to the backend](https://github.com/GraphiaX/GraphiaX-Server/issues)
+[For any general issues](https://github.com/GraphiaX/GraphiaX/issues)
+
+### Suggesting Enhancements
+
+This section guides you through submitting an enhancement suggestion for Atom, including completely new features and minor improvements to existing functionality. 
