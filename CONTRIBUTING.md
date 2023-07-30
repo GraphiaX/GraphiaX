@@ -18,7 +18,7 @@ The following is a set of guidelines for contributing to GraphiaX and its packag
 
 # How Can I Contribute?
 
-### Reporting Bugs
+## Reporting Bugs
 
 This section guides you through submitting a bug report for GraphiaX.
 
@@ -28,6 +28,6 @@ This section guides you through submitting a bug report for GraphiaX.
 
 [For any general issues](https://github.com/GraphiaX/GraphiaX/issues)
 
-### Suggesting Enhancements
+## Suggesting Enhancements
 
 This section guides you through submitting an enhancement suggestion for Atom, including completely new features and minor improvements to existing functionality. 
