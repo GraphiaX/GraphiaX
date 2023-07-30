@@ -7,8 +7,11 @@ The following is a set of guidelines for contributing to GraphiaX and its packag
 ## Table Of contents
 
 
-* Code of Conduct
+* [Code of Conduct](#code_of_conduct)
 * What should I know before I get started?
 * How Can I Contribute?
 * I just have a question
 
+
+
+<a name="code_of_conduct"/>
