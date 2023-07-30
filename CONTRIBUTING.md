@@ -10,7 +10,7 @@ The following is a set of guidelines for contributing to GraphiaX and its packag
 
 * [What should I know before I get started?](#what_i_should_know)
 * [How Can I Contribute?](#how_can_i_contribute)
-* I just have a question
+* [I just have a question](#contact)
 
 
 <a name="what_i_should_know"/>
@@ -35,3 +35,9 @@ This section guides you through submitting a bug report for GraphiaX.
 ## Suggesting Enhancements
 
 This section guides you through submitting an enhancement suggestion for GraphiaX, including completely new features and minor improvements to existing functionality. 
+
+<a name="contact"/>
+
+## I just have a question
+
+
