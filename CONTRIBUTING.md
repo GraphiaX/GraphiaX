@@ -15,4 +15,5 @@ The following is a set of guidelines for contributing to GraphiaX and its packag
 
 
 <a name="code_of_conduct"/>
+
 ## Code of Conduct
