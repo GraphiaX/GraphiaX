@@ -40,4 +40,6 @@ This section guides you through submitting an enhancement suggestion for Graphia
 
 ## I just have a question
 
+Discord: https://discord.gg/uJ9A5QX5
+Email: mohyiddinedilmi@gmail.com
 
