@@ -12,13 +12,12 @@ The following is a set of guidelines for contributing to GraphiaX and its packag
 * [How Can I Contribute?](#how_can_i_contribute)
 * I just have a question
 
-<a name="what_i_should_know"/>
 
+<a name="what_i_should_know"/>
 # What should I know before I get started?
 GraphiaX is a project for everyone, anyone can add a plus to this open-source project. starting from the organization, ideas, and docs to dev, and deployment.
 
 <a name="how_can_i_contribute"/>
-
 # How Can I Contribute?
 
 ## Reporting Bugs
