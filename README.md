@@ -12,10 +12,9 @@ Live Demo: https://graphiax.azurewebsites.net/
 # Architecture
 
 Frontend `React JS`,
-Backend `Django`,
-Host `Azure Web Service`
+Backend `Django`
 
-<img src="https://github.com/MohyiddineDilmi/GraphiaX/assets/33746487/9329de75-42f3-4915-b003-5b863c56b112" width="70%"/>
+<img src="https://github.com/GraphiaX/GraphiaX/assets/33746487/abfd5c7f-9a56-4ea8-914a-5e7d2549116f" width="70%"/>
 
 # Frontend
 
